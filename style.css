@@ -1,0 +1,36 @@
+.title{ 
+    margin-bottom: ; 
+    text-align:cente; 
+    width: 238px; 
+    color:black; 
+    border: solid black 2px; 
+    font-size: small;
+    padding: 5px 5px 5px 5px;    
+} 
+
+    input[type="button"] 
+    { 
+    background-color: cyan; 
+    color: black; 
+    border: solid black 2px; 
+    width:100% 
+    } 
+
+    input[type="text"] 
+    { 
+    background-color:gainsboro; 
+    border: solid black 2px; 
+    width:100% 
+    }
+
+    table{
+        width: 252px;
+        padding: 5px 5px 5px 5px;
+    border-style: solid 100px;
+    border-color: gray;
+background-color: black;    
+}
+
+div{
+    background-color: lightgray;
+}
